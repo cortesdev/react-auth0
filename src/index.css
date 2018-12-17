@@ -51,3 +51,8 @@ nav li a:hover {
 nav button {
   margin-top: 13px;
 }
+
+.profile--image {
+  max-width: 50px;
+  max-height: 50px;
+}
