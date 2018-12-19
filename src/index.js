@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
+// eslint-disable-next-line
 import Auth0Lock from 'auth0-lock';
 
 ReactDOM.render(
